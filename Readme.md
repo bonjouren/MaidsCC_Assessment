@@ -37,7 +37,15 @@ This task involves identifying an optimal pair of test cases that together cover
 ## How to Run the Code
 1. Ensure you have Java 17 installed.
 2. Clone the repository.
-3. Compile and run the Java files
+3. Compile and run the Java files using:
+   ```sh
+   java -cp Task1_Chatbot/src/main/java com.maids.chatbot.Chatbot
+   javac Task1_Chatbot\src\main\java\com\maids\chatbot\Chatbot.java
+   ```
+   ```sh
+   java -cp Task2_PerformanceTesting/src/main/java com.maids.PerformanceTesting
+   javac Task2_PerformanceTesting\src\main\java\com\maids\PerformanceTesting.java
+   ```
 
 ## Contact
 For any questions or clarifications, please reach out to the repository owner.
